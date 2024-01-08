@@ -1,1 +1,1 @@
-# MLProj
+# This Project was my introduction to using Health Data and ML models. I compared a KNN model with k=5 folds to a Linear Regression model. The Linear Model fit the health survey data better for classification, so, using that I compared its predictions to the actual. This was for a class, so I wrote a detailed report about what went wrong and what went right.
